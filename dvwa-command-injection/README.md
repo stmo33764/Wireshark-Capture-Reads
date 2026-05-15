@@ -43,6 +43,6 @@ further attacks such as brute force or privilege escalation.
 
 ## Detection & Prevention
 - Detection: Alert on POST bodies containing `;`, `|`, or `&&` to 
-  sensitive endpoints; anomalous command output in HTTP responses
+  sensitive endpoints
 - Prevention: Input validation (whitelist IPs only), use of safe APIs 
   instead of shell execution, Web Application Firewall rules
