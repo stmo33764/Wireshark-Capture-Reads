@@ -1,5 +1,5 @@
 # Wireshark-Capture-Reads
-Cybersecurity graduate building and showcasing hands-on techniques. This is a collection of analyzed Wireshark files. It includes screenshots from the files and findings.
+This is a collection of analyzed Wireshark files. It includes screenshots from the files and findings.
 
 ## Projects 
 - [DVWA Command Injection]
