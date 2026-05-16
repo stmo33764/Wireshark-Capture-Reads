@@ -37,7 +37,7 @@ encryption, making them fully visible in the capture.
 
 All failed login attempts returned a Content-Length of either 5,122 or 5,174 
 bytes. Filtering for `http.content_length == 5239` isolates a single outlier 
-response — a larger page indicating the server returned a success page rather 
+response. A larger page indicating the server returned a success page rather 
 than an error. The corresponding request confirms the valid credentials:
 
 `username=admin / password=password`
